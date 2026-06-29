@@ -1,0 +1,7 @@
+flask
+transformers
+torch
+sympy
+pyttsx3
+requests
+python-dotenv
